@@ -1,26 +1,26 @@
 # Hi there 👋 I'm Khushi Datta
 
-🚀 **Aspiring Developer | Data Enthusiast | Tech Explorer**
+🚀 **Aspiring Data Scientist | Data Enthusiast | Tech Explorer**
 
 ---
 
 ## 💻 About Me
 
-I'm a passionate learner exploring the world of **Web Development**, **Data Analytics**, and **Tech Projects**. With a growing portfolio of hands-on projects ranging from **interactive websites** to **data analysis notebooks**, I enjoy building creative solutions and enhancing my skill set every day.
+I'm a passionate learner exploring the world of **Data Science**, **Data Analytics**, and **Tech Projects**. With a growing portfolio of hands-on projects ranging from **interactive websites** to **data analysis notebooks**, I enjoy building creative solutions and enhancing my skill set every day.
 
 🔗 **Connect with me:**
 
 - 🌐 [LinkedIn Profile](https://www.linkedin.com/in/khushi-datta-251766279)
-- 📄 [View My CV](#) <!-- You can replace "#" with your CV link when available -->
+- 📄 [View My CV](https://drive.google.com/file/d/1-ajFoMwdWyCgWAHqzwnkvxYbrHb18D49/view) <!-- You can replace "#" with your CV link when available -->
 - 💡 [Explore My Repositories](https://github.com/Khushi-1-7?tab=repositories)
 
 ---
 
 ## 🔧 Technologies I Work With
 
-- **Languages**: HTML, CSS, JavaScript, Python
+- **Languages**: HTML, CSS, C++, Java, JavaScript, Python
 - **Tools & Frameworks**: Jupyter Notebook, Git & GitHub, VS Code
-- **Areas of Interest**: Frontend Development, Data Visualization, Web Design, EDA (Exploratory Data Analysis)
+- **Areas of Interest**: Data Science, Data Visualization, Web Design, EDA (Exploratory Data Analysis)
 
 ---
 
